@@ -1,0 +1,16 @@
+
+.v-sheet.v-toolbar {
+  &.theme--dark, &.theme--light {
+    background: transparent;
+  }
+}
+
+
+
+.v-toolbar.px-0 {
+ .v-toolbar__content {
+   padding-left: 0 !important;
+   padding-right: 0 !important;
+ }
+}
+

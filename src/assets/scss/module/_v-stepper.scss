@@ -1,0 +1,17 @@
+
+
+.theme--light.v-stepper {
+  background: transparent;
+  box-shadow: none;
+
+}
+
+.v-stepper__step__step .v-icon.v-icon {
+  font-size: .75rem !important;
+}
+
+.v-stepper__header {
+  box-shadow: $box-shadow;
+  background: #fff;
+  border-radius: $border-radius;
+}

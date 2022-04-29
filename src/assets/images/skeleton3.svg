@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <clipPath id="clip-icon_3_1">
+      <rect width="64" height="64"/>
+    </clipPath>
+  </defs>
+  <g id="icon_3_1" data-name="icon_3 – 1" clip-path="url(#clip-icon_3_1)">
+    <rect id="Rectangle_643" data-name="Rectangle 643" width="15" height="24" transform="translate(8 16)" fill="#b1b1b1"/>
+    <rect id="Rectangle_644" data-name="Rectangle 644" width="15" height="24" transform="translate(25 16)" fill="#b1b1b1"/>
+    <rect id="Rectangle_645" data-name="Rectangle 645" width="15" height="24" transform="translate(42 16)" fill="#b1b1b1"/>
+    <rect id="Rectangle_636" data-name="Rectangle 636" width="15" height="3" rx="1.5" transform="translate(8 45)" fill="#b1b1b1"/>
+    <rect id="Rectangle_646" data-name="Rectangle 646" width="15" height="3" rx="1.5" transform="translate(25 45)" fill="#b1b1b1"/>
+    <rect id="Rectangle_647" data-name="Rectangle 647" width="15" height="3" rx="1.5" transform="translate(42 45)" fill="#b1b1b1"/>
+  </g>
+</svg>

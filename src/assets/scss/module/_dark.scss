@@ -1,0 +1,37 @@
+.theme--dark.v-application {
+  background-color: #2b323a !important;
+}
+
+.theme--dark.v-app-bar.v-toolbar.v-sheet {
+  background: #263238 !important;
+}
+
+.theme--dark.v-card,
+.theme--dark.v-expansion-panels .v-expansion-panel{
+  background: #52575C !important;
+}
+
+.theme--dark.v-data-table {
+  background: transparent !important;
+}
+
+
+.displayNone {
+  display: none !important;
+}
+
+
+.displayBlock {
+  display: block !important;
+}
+
+.theme--dark .chart-header {
+  background: transparent !important;
+  color: white !important;
+}
+
+
+.theme--dark.v-text-field--solo > .v-input__control > .v-input__slot {
+  background: transparent !important;
+  border: 1px solid rgba(255, 255, 255, 0.24) !important;
+}

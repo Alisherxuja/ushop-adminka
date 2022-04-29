@@ -1,0 +1,12 @@
+.v-select--is-menu-active .v-text-field--outlined.v-input--has-state fieldset, .v-text-field--outlined.v-input--is-focused fieldset {
+  box-shadow: $input-shadow;
+  color: #D6E4EC;
+}
+
+.v-autocomplete__content.v-menu__content {
+  margin-top: 10px;
+  box-shadow: $input-shadow;
+  border-radius: 6px;
+}
+
+

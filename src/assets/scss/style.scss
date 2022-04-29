@@ -1,0 +1,71 @@
+@import "variable";
+@import "module/body";
+@import "module/application";
+@import "module/v-card";
+@import "module/v-icon";
+@import "module/_sidebar.scss";
+@import "module/_v-table.scss";
+@import "module/_forms.scss";
+@import "module/_v-select.scss";
+@import "src/assets/scss/helper";
+@import "module/_vue-editor.scss";
+@import "module/_toolbar.scss";
+@import "module/_avatar.scss";
+@import "module/v-toolbar";
+@import "module/list_menu";
+@import "module/loading";
+@import "module/v-stepper";
+@import "module/notify";
+@import "module/dark";
+@import "module/v-tooltip";
+
+
+th[role='columnheader'][aria-sort='none'] {
+	white-space: nowrap;
+}
+
+
+.showOffClass {
+	display: none !important;
+}
+
+.showOnClass {
+	display: block !important;
+}
+
+
+canvas {
+	background: red !important;
+}
+
+.red {
+	background: #ff0000;
+}
+
+.circle {
+	width: 5px;
+	height: 5px;
+	border-radius: 50%;
+	box-shadow: 0 0 1px 1px #0000001a;
+}
+
+.pulse {
+	animation: pulse-animation 2s infinite;
+}
+
+
+
+.v-application--is-ltr .v-treeview-node__toggle {
+	height: 24px;
+}
+
+@keyframes pulse-animation {
+	0% {
+		box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.2);
+	}
+	100% {
+		box-shadow: 0 0 0 20px rgba(0, 0, 0, 0);
+	}
+}
+
+
